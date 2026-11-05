@@ -101,7 +101,7 @@ The host files were successfully displayed from within the virtual machine.
 
 A baseline snapshot will preserve the configured lab environment for future recovery and practical exercises.
 
-Snapshot status: Pending final confirmation.
+Snapshot status: completed.
 
 ### Troubleshooting
 
